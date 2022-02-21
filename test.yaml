@@ -1,14 +1,15 @@
 ---
-:word: harley
+:word: packard
 :lives: 3
-:curr_guess: e
+:curr_guess: r
 :curr_state:
-- h
+- p
+- a
+- c
+- k
 - a
 - r
-- l
-- e
 - _
 :wrong_chars:
-- p
-- d
+- l
+- n
