@@ -1,0 +1,14 @@
+---
+:word: harley
+:lives: 3
+:curr_guess: e
+:curr_state:
+- h
+- a
+- r
+- l
+- e
+- _
+:wrong_chars:
+- p
+- d
